@@ -1,0 +1,29 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\genlogs_2.11-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	LogGenerator$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\LogGenerator$.class[0m
+[0m[[0mdebug[0m] [0m	RandomHttpLogGen$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\RandomHttpLogGen$.class[0m
+[0m[[0mdebug[0m] [0m	RandomHttpLogGen.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\RandomHttpLogGen.class[0m
+[0m[[0mdebug[0m] [0m	LogGenerator$$anonfun$pick_weighted_key$2.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\LogGenerator$$anonfun$pick_weighted_key$2.class[0m
+[0m[[0mdebug[0m] [0m	IPGenerator.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\IPGenerator.class[0m
+[0m[[0mdebug[0m] [0m	RandomHttpLogGen$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\RandomHttpLogGen$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	LogGenerator$$anonfun$pick_weighted_key$3.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\LogGenerator$$anonfun$pick_weighted_key$3.class[0m
+[0m[[0mdebug[0m] [0m	LogGenerator$$anonfun$pick_weighted_key$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\LogGenerator$$anonfun$pick_weighted_key$1.class[0m
+[0m[[0mdebug[0m] [0m	RandomHttpLogGen$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\RandomHttpLogGen$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	LogGenerator.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\LogGenerator.class[0m
+[0m[[0mdebug[0m] [0m	IPGenerator$$anonfun$session_gc$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\IPGenerator$$anonfun$session_gc$1.class[0m
+[0m[[0mdebug[0m] [0m	IPGenerator$$anonfun$randomIp$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\IPGenerator$$anonfun$randomIp$1.class[0m
+[0m[[0mdebug[0m] [0m	IPGenerator$$anonfun$session_gc$2.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Sunil\IdeaProjects\Research\code\scalademo\genLogs\target\scala-2.11\classes\IPGenerator$$anonfun$session_gc$2.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
